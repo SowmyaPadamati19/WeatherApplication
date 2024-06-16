@@ -1,0 +1,16 @@
+//  const materialTableElement = document.getElementsByClassName("childOne");
+
+//   const maxHeight = useDynamicMaxHeight(materialTableElement, "fixedcreate") - 46;
+//   {validationMessage == false && (
+//     <CellRendererPrimeReactDataTable
+//       CustomersFileName = "AuditCpSetup"
+//       AuditCpSetupMaxHeight = {maxHeight}
+//       data={data}
+//       headerData={headerData}
+//       dynamicColumns={dynamicColumns}
+//       setHeaderData={setHeaderData}
+//       linkColumns={linkColumns}
+//       linkColumnsRoutes={linkColumnsRoutes}
+//       rows={25}
+//     />
+//   )}
